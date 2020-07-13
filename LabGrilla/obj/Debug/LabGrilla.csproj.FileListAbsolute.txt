@@ -1,0 +1,13 @@
+C:\Users\Braian\source\repos\LabGrilla\LabGrilla\obj\Debug\LabGrilla.csprojAssemblyReference.cache
+C:\Users\Braian\source\repos\LabGrilla\LabGrilla\obj\Debug\LabGrilla.formListaUsuarios.resources
+C:\Users\Braian\source\repos\LabGrilla\LabGrilla\obj\Debug\LabGrilla.Properties.Resources.resources
+C:\Users\Braian\source\repos\LabGrilla\LabGrilla\obj\Debug\LabGrilla.csproj.GenerateResource.cache
+C:\Users\Braian\source\repos\LabGrilla\LabGrilla\obj\Debug\LabGrilla.csproj.CoreCompileInputs.cache
+C:\Users\Braian\source\repos\LabGrilla\LabGrilla\bin\Debug\LabGrilla.exe.config
+C:\Users\Braian\source\repos\LabGrilla\LabGrilla\bin\Debug\LabGrilla.exe
+C:\Users\Braian\source\repos\LabGrilla\LabGrilla\bin\Debug\LabGrilla.pdb
+C:\Users\Braian\source\repos\LabGrilla\LabGrilla\bin\Debug\Negocio.dll
+C:\Users\Braian\source\repos\LabGrilla\LabGrilla\bin\Debug\Negocio.pdb
+C:\Users\Braian\source\repos\LabGrilla\LabGrilla\obj\Debug\LabGrilla.csproj.CopyComplete
+C:\Users\Braian\source\repos\LabGrilla\LabGrilla\obj\Debug\LabGrilla.exe
+C:\Users\Braian\source\repos\LabGrilla\LabGrilla\obj\Debug\LabGrilla.pdb

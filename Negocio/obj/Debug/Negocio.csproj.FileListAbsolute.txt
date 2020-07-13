@@ -1,0 +1,6 @@
+C:\Users\Braian\source\repos\LabGrilla\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Braian\source\repos\LabGrilla\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Braian\source\repos\LabGrilla\Negocio\bin\Debug\Negocio.dll
+C:\Users\Braian\source\repos\LabGrilla\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Braian\source\repos\LabGrilla\Negocio\obj\Debug\Negocio.dll
+C:\Users\Braian\source\repos\LabGrilla\Negocio\obj\Debug\Negocio.pdb
